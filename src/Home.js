@@ -32,7 +32,7 @@ const handleEdit = (user) => {
   const handleSave = (id) => {
     dispatch(updateUser({ id, updatedUser: { name, email, password } }));
     setEditingUser(null);
-  };
+  }; 
   
 
   return (
