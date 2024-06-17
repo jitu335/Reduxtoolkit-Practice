@@ -1,0 +1,98 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+ /* ===================================================personal use===================================== */
+ .nav-counter{
+  color: red;
+  text-decoration: none;
+}
+
+.nav-coin{
+  color: white;
+  text-decoration: none;
+}
+
+.nav-theme{
+  color: red;
+  text-decoration: none;
+}
+
+.nav-userfilterdata{
+  color: white;
+  text-decoration: none;
+}
+
+.nav-productlist{
+  color: red;
+  text-decoration: none;
+
+}
+
+.nav-login{
+  color: white;
+  text-decoration: none;
+}
+
+.nav-Prepare1{
+  color: white;
+  text-decoration: none;
+}
+
+.nav-Prepare2{
+  color: red;
+  text-decoration: none;
+}
+
+.nav-Prepare3{
+  color: white;
+  text-decoration: none;
+}
+
+.nav-webrecorder{
+  color: red;
+  text-decoration: none;
+}
+
+
+body {
+  background-color: lightblue;
+}
+
+
+
+

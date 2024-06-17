@@ -1,0 +1,47 @@
+body {
+    background-color: lightblue;
+  }
+
+.gabru {
+
+background-color: antiquewhite; 
+box-sizing: border-box;
+height: 145px;
+}
+
+.carticon {
+
+    width: 60px;
+    height: auto;
+    position: relative;
+    left: 500px;
+    top: -40px;
+
+}
+
+
+.addtocart{
+    position: relative;
+    left: 330px; 
+    top: -50px;
+}
+
+.nav-counter{
+    color: red;
+    text-decoration: none;
+  }
+  
+  .nav-coin{
+    color: white;
+    text-decoration: none;
+  }
+  
+  .nav-theme{
+    color: red;
+    text-decoration: none;
+  } 
+
+
+
+
+ 
