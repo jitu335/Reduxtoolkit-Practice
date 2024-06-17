@@ -37,7 +37,7 @@ const handleEdit = (user) => {
 
   return (
     <>
-      <h4>src/Home.js.....</h4>
+      <h4>src/Home.js...</h4>
       <style>{"body { background-color: #ffcc66 }"}</style>
 
        <h2>User List</h2>
